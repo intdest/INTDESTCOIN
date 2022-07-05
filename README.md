@@ -1,3 +1,10 @@
 # INTDESTCOIN
 A solution to the evolution of the Blockchain world
-# <iframe src="https://cdn.jwplayer.com/players/bfEdCGeV-ddEcHpUH.html" width="640" height="360" frameborder="0" scrolling="auto" title="INTDESTCOIN" allowfullscreen></iframe>
+```solidity
+pragma solidity ^0.8.0;
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+contract MyCollectible is ERC721 {
+    constructor() ERC721("MyCollectible", "MCO") {
+    }
+}
+```
