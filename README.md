@@ -1,3 +1,4 @@
+# <img src="logo.svg" alt="OpenZeppelin" height="40px">
 # <img src="blockchain.jpg" alt="intdestcoin" height="100%">
 # INTDESTCOIN
 A solution to the evolution of the Blockchain world
