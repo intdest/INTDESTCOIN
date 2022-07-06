@@ -2,6 +2,7 @@
 # <img src="blockchain.jpg" alt="intdestcoin" height="100%">
 # INTDESTCOIN
 A solution to the evolution of the Blockchain world
+# <img src="network.png" alt="intdestcoin" height="100%">
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
