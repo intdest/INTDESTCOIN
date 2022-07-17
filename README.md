@@ -1,6 +1,5 @@
 # <img src="logo.svg" alt="OpenZeppelin" height="40px">
 # <img src="blockchain.jpg" alt="intdestcoin" height="100%">
-# A solution to the evolution of the Blockchain world
 ## What Is INTDESTCOIN (INTD)?
 INTDESTCOIN is an ecosystem that validates value for anything, anywhere. It has enabled the validation of any digital content with no geographic location restrictions.
 
