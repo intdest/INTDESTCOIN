@@ -18,6 +18,19 @@ With a diverse focus encompassing blockchain, artificial intelligence, metaverse
 INTDESTCOIN's product viability is supported by its comprehensive ecosystem, economic incentives for holders, scalable and secure infrastructure, user-friendly features, and support for NFT and token creation. The project's strong team and management, coupled with its future-focused vision, further contribute to its success in the market.
 Revenue streams for the project include income generation through various [INTDEST services](https://intdest.services). Additionally, future token sales will be utilized to expand services, develop data centers, and introduce new generation web services.
 
+## ✅The main links of the project:
+[WebSite](https://intdestcoin.com/) | [What is INTD](https://intdestcoin.com/what-is-intd/) | [INTD Team](https://intdestcoin.com/team-partners) | [Project's KYC](https://www.coinscope.co/coin/intd/kyc) 
+## ✅Project white papers:
+[INTD White Paper](https://intdestcoin.com/whitepaper/INTD.pdf) | [X Network](https://intdestcoin.com/whitepaper/XCHAIN.pdf) | [Sub-projects](https://intdestcoin.com/whitepaper/SERVICES.pdf) | [Tokenomic](https://intdestcoin.com/whitepaper/TOKENOMICS.pdf)
+The project has 10 white papers that you can read on its website.
+
+🟢Smart contracts: [Audit report](https://coinsult.net/projects/intdestcoin/)
+🟢INTDESTCOIN in Binance (AMA): [AMA](https://www.binance.com/en/live/video?roomId=2137663)
+🟢Sponsored links: [Project support kit graphic package](https://intdestcoin.com/sponsored-links/)
+
+## ✅Social network links:
+[Telegram](https://t.me/INTDCOIN) | [Twitter](https://twitter.com/intdestcoin) | [Instagram](https://instagram.com/intdcoin) | [Yotube](https://www.youtube.com/@intdestcoin) | [Discord](https://discord.com/invite/8ERptThDZC) | [linkedin](https://www.linkedin.com/company/intdestcoin) | [GitHub](https://github.com/intdest/INTDESTCOIN)
+
 ## I N T D E S T C O I N
 **A Solution To The Evolution Of The Blockchain World**
 [W W W . I N T D E S T C O I N . C O M](https://intdestcoin.com/)
