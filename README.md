@@ -3,7 +3,9 @@
 ## What Is INTDESTCOIN?
 INTDESTCOIN [INTD](https://intdestcoin.com/), a revolutionary digital ecosystem transcending geographical boundaries. With ongoing development of 30 supporting projects, [INTDESTCOIN](https://intdestcoin.com/) aims to become a leading player in the digital currency and blockchain space.
 [INTDESTCOIN](https://intdestcoin.com/)'s strength lies in its innovative blend of singular technologies that push beyond current limitations.
+
 <img src="https://raw.githubusercontent.com/intdest/INTDESTCOIN/main/BG.jpg" alt="intdestcoin" height="100%" width="100%">
+
 ## What Makes INTDESTCOIN Unique?
 The project's objective is to create a borderless digital ecosystem, allowing the validation of any digital content. As a reference currency for various cash services such as [dApp](https://https://intdestcoin.com/app/#/), [DeFi](https://intdestcoin.com/intd-dashboard/), [AI](https://intd.app/), [NFT](https://intdest.pro/) and [Web3](https://intdest.online).
  INTD is set to become a go-to digital currency and platform for financial services and blockchain-based solutions.
