@@ -24,7 +24,7 @@ Revenue streams for the project include income generation through various [INTDE
 [INTD White Paper](https://intdestcoin.com/whitepaper/INTD.pdf) | [X Network](https://intdestcoin.com/whitepaper/XCHAIN.pdf) | [Sub-projects](https://intdestcoin.com/whitepaper/SERVICES.pdf) | [Tokenomic](https://intdestcoin.com/whitepaper/TOKENOMICS.pdf)
 The project has 10 white papers that you can read on its website.
 
-🟢Smart contracts: [Audit report](https://coinsult.net/projects/intdestcoin/)
+🟢Smart contracts: [Audit report](https://coinsult.net/projects/intdestcoin/)<br>
 🟢INTDESTCOIN in Binance (AMA): [AMA](https://www.binance.com/en/live/video?roomId=2137663)
 🟢Sponsored links: [Project support kit graphic package](https://intdestcoin.com/sponsored-links/)
 
